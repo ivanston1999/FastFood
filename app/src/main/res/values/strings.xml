@@ -5,4 +5,8 @@
     <string name="text_search">Search Food nearby</string>
     <string name="text_under_header">Save Rescued Food for 50%!</string>
     <string name="text_detail_promotion">Left over supplies and food have been used up</string>
+    <string name="text_hot_deals">Hot Deals</string>
+    <string name="text_new_on_fast_food">New on FastFood</string>
+    <string name="text_save_food_save_hunger">Save Food, Save Hunger</string>
+    <string name="text_set_your_preferences_now">Set Your Preferences Now!</string>
 </resources>
