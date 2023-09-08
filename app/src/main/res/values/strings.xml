@@ -12,4 +12,12 @@
     <string name="text_cappucino">Cappucino</string>
     <string name="text_suhani_restaurant">Suhani Restaurant</string>
     <string name="text_rp_50000">Rp. 50.000</string>
+    <string name="text_looking_for_breakfast">Looking for Breakfast?</string>
+    <string name="text_here_s_what_you_might_like_to_taste">Here\'s what you might like to taste</string>
+    <string name="text_egg_and_cheese_sandwich">Egg and cheese sandwich</string>
+    <string name="text_mehfil_s_place">Mehfil\'s Place</string>
+    <string name="text_daily_meals">Daily Meals</string>
+    <string name="tezt_middle_eastern">Middle-eastern</string>
+    <string name="text_chinese">Chinese</string>
+    <string name="text_desi">Desi</string>
 </resources>
