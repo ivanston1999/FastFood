@@ -9,4 +9,7 @@
     <string name="text_new_on_fast_food">New on FastFood</string>
     <string name="text_save_food_save_hunger">Save Food, Save Hunger</string>
     <string name="text_set_your_preferences_now">Set Your Preferences Now!</string>
+    <string name="text_cappucino">Cappucino</string>
+    <string name="text_suhani_restaurant">Suhani Restaurant</string>
+    <string name="text_rp_50000">Rp. 50.000</string>
 </resources>
