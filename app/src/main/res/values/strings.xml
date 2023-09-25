@@ -20,4 +20,13 @@
     <string name="tezt_middle_eastern">Middle-eastern</string>
     <string name="text_chinese">Chinese</string>
     <string name="text_desi">Desi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_menu">Dimsum</string>
+    <string name="default_menu_price">Rp. 25.000</string>
+    <string name="menu_description">description</string>
+    <string name="string_beli">Beli</string>
+    <string name="string_buy">Beli - Rp. %1d</string>
+    <string name="string_lokasi">Lokasi</string>
+    <string name="string_satu">1</string>
 </resources>
